@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengtao Wang (王鹏夲)"
-description              : "帮助他人，提高自我"
+description              : "Breaking through a bottle neck recently."
 repository               : "wong-pt/wong-pt.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Pengtao Wang (王鹏夲)"
   avatar           : "images/result.png"
   bio              : "UIR"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "wong@uir.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
