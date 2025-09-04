@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "简介"
     url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
@@ -12,11 +9,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-internships--兼职"
+
+  - title: "Certificates"
+    url: "/#-certificates"
+
+  - title: "感谢信"
+    url: "/#-感谢信"
