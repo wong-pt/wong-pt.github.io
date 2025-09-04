@@ -33,7 +33,7 @@ redirect_from:
 </div>
 </div>
 
-####按投稿时间排序
+按投稿时间排序
 - ``ICETCI 2025`` **Pengtao Wang**, Kexin Tang, Yingxu Li, Dongsong Li. [An Improved BERT-BiLSTM-CRF Model Integrating CNN and Transformer for Chinese Named Entity Recognition](https://ieeexplore.ieee.org/document/11084000). *2025 IEEE 5th International Conference on Electronic Technology, Communication and Information (ICETCI)*, 512-520. **(EI indexed)**
 - ``ICISE-IE 2024`` **Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng. [An Attention-Enhanced LSTM Model for Chinese Educational Named Entity Recognition](https://ieeexplore.ieee.org/document/11025404/). *2024 IEEE 5th International Conference on Information Science and Education (ICISE-IE)*, 272-277. **(EI indexed)**
 - ``ECNCT 2025`` A Review of Low-Altitude Communication Technologies in the Context of 
