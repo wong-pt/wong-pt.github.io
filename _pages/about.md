@@ -16,6 +16,14 @@ redirect_from:
 
 培训经验丰富，教学范围涵盖网络安全开发、电子对抗方向，C++程序设计，PHP 程序设计，青少年信息学教学，沟通、汇报能力强。发表人工智能相关成果多篇（项）。指导学生数名获得省市级竞赛奖项、在国际会议发表学术论文3篇。
 
+## **Skills**
+
+- **Programming Languages:** C/C++, PHP, Python, Java, SQL  
+- **Web Technologies:** PHP + MySQL, ASP + MSSQL  
+- **Database Systems:** MSSQL, MySQL  
+- **Specialized Area:** Electronic countermeasures, Web penetration, Public Sentiment Analysis, OSINT  
+- **Research Skills:** Paper writing, Conduct experiments, Information Gathering 
+
 # 🔥 News
 - *2025.09.03*: &nbsp;🎉 经过一年多的拖延症，本页面终于成功落地。
 
