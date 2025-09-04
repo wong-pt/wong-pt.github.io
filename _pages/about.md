@@ -41,7 +41,7 @@ redirect_from:
 - A Review of Low-Altitude Communication Technologies in the Context of 
 Integrating the Low-Altitude Economy and Rail Transit. Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang, *ECNCT 2025*, unpublished.
 
-# 🎖️ Honors and Awards
+# 🎖 Honors and Awards
 - **2020年桂林市教育局系统优秀共青团干部**
 - **2021信息学奥林匹克联赛**（广西赛区）二等奖
 - **2021西湖论剑网络安全技能大赛** 二等奖
