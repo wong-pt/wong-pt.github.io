@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "简介"
-    url: "/#about-me"
+    url: "/#main"
 
   - title: "Publications"
     url: "/#-publications"
