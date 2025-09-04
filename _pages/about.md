@@ -39,7 +39,7 @@ redirect_from:
 - ``ECNCT 2025`` A Review of Low-Altitude Communication Technologies in the Context of 
 Integrating the Low-Altitude Economy and Rail Transit. Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang, *ECNCT 2025*, unpublished.
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - **2020年桂林市教育局系统优秀共青团干部**
 - **2021信息学奥林匹克联赛**（广西赛区）二等奖
 - **2021西湖论剑网络安全技能大赛** 二等奖
@@ -70,6 +70,13 @@ Integrating the Low-Altitude Economy and Rail Transit. Xuan Xie, Yu Liu, Xun Liu
 - *2024*, 中共菏泽市网络安全和信息化委员会办公室
 - *2025*, 锦州市公安局凌河分局网络与信息安全大队
 - *2024*, 第七届中国国际进口博览会（团体感谢函）, 上海市公安局网络安全保卫总队
+
+# 📟 开发经历
+- *2022年*广西学生信息素养提升实践活动独立开发web程序**家校协作系统（疫情版）**获省评比一等奖
+- *2022年*独立开发web程序**桂林市桂电中学教评系统**
+- *2023年*独立为某协会开发一套web**XX信息管理系统**
+- *2024年*协助大学**车辆进出报备系统**建设
+- *2025年*独立开发一套web的**3DXX交互展示平台**和一套**XX仿真系统**
 
 # 📖 Educations
 - *2023.09 - now*, [国际关系学院](https://baike.baidu.com/item/国际关系学院/1153802)（重点**本科**，提前批）网络空间安全学院
