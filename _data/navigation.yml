@@ -12,5 +12,11 @@ main:
   - title: "证书"
     url: "/#-certificates"
 
-  - title: "感谢信"
+  - title: "实习&兼职"
     url: "/#-certificates"
+    
+  - title: "开发经历"
+    url: "/#-educations"
+
+  - title: "感谢信"
+    url: "/#-educations"
