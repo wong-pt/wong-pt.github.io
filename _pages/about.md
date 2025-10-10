@@ -58,9 +58,10 @@ redirect_from:
 **Pengtao Wang**, Kexin Tang, Yingxu Li, Dongsong Li*.
 - ``EI indexed`` [An Attention-Enhanced LSTM Model for Chinese Educational Named Entity Recognition](https://ieeexplore.ieee.org/document/11025404/). *2024 IEEE 5th International Conference on Information Science and Education (ICISE-IE)*, 272-277. \\
 **Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng*. 
-- A Review of Low-Altitude Communication Technologies in the Context of 
-Integrating the Low-Altitude Economy and Rail Transit. *ECNCT 2025*, unpublished. \\
+- A Review of Low-Altitude Communication Technologies in the Context of Integrating the Low-Altitude Economy and Rail Transit. *ECNCT 2025*, unpublished. \\
 Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang*.
+- ``CCF-B`` MARS: A Multi-Agent Simulation Framework for Rumor Propagation on Social Media. *ACM CIKM 2025 Workshop LASS*, unpublished. \\
+Zihao Wang, Xiaoyu Chen, Lingyun Fan, Peiyu Chen, **Pengtao Wang**, Binyang Li*.
 
 #### 软件著作权
 - Pengtao Wang. **计算机网络运行安全监控管理系统 V1.0 (Computer Network Security Monitoring and Management System V1.0)**. Registration No. 2024SR0923076. Grant Date: 2024/07/03
