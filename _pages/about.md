@@ -25,6 +25,7 @@ redirect_from:
 - **Research Skills:** Paper writing, Conduct experiments, Information Gathering 
 
 # 🔥 News
+- *2025.10.04*: &nbsp;🎉🎉🎉 新作被SCI、JCRQ3、中科院Q4期刊DYNA接收。 
 - *2025.09.03*: &nbsp;🎉 经过一年多的拖延症，本页面终于成功落地。
 
 # 📝 Publications 
@@ -41,14 +42,25 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCI JCRQ3</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Open-Source Intelligence in the Age of Artificial Intelligence: Practices and Challenges for Non-Governmental Entities]()
+
+**Pengtao Wang**, Binyang Li*, Chang Liu, Peiran Gong
+
+- Will be published soon! 
+</div>
+</div>
+
 #### 按投稿时间排序
 - ``EI indexed`` [An Improved BERT-BiLSTM-CRF Model Integrating CNN and Transformer for Chinese Named Entity Recognition](https://ieeexplore.ieee.org/document/11084000). *2025 IEEE 5th International Conference on Electronic Technology, Communication and Information (ICETCI)*, 512-520. \\
-**Pengtao Wang**, Kexin Tang, Yingxu Li, Dongsong Li.
+**Pengtao Wang**, Kexin Tang, Yingxu Li, Dongsong Li*.
 - ``EI indexed`` [An Attention-Enhanced LSTM Model for Chinese Educational Named Entity Recognition](https://ieeexplore.ieee.org/document/11025404/). *2024 IEEE 5th International Conference on Information Science and Education (ICISE-IE)*, 272-277. \\
-**Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng. 
+**Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng*. 
 - A Review of Low-Altitude Communication Technologies in the Context of 
 Integrating the Low-Altitude Economy and Rail Transit. *ECNCT 2025*, unpublished. \\
-Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang.
+Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang*.
 
 #### 软件著作权
 - Pengtao Wang. **计算机网络运行安全监控管理系统 V1.0 (Computer Network Security Monitoring and Management System V1.0)**. Registration No. 2024SR0923076. Grant Date: 2024/07/03
