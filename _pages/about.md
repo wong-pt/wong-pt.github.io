@@ -59,11 +59,17 @@ redirect_from:
 - ``EI indexed`` [An Improved BERT-BiLSTM-CRF Model Integrating CNN and Transformer for Chinese Named Entity Recognition](https://ieeexplore.ieee.org/document/11084000). *2025 IEEE 5th International Conference on Electronic Technology, Communication and Information (ICETCI)*, 512-520. \\
 **Pengtao Wang**, Kexin Tang, Yingxu Li, Dongsong Li*.
 - ``EI indexed`` [An Attention-Enhanced LSTM Model for Chinese Educational Named Entity Recognition](https://ieeexplore.ieee.org/document/11025404/). *2024 IEEE 5th International Conference on Information Science and Education (ICISE-IE)*, 272-277. \\
-**Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng*. 
+**Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng*.
+- ``CCF-C`` RS-Stega: A Token-Level Quality-Control Framework for Generative Text Steganography. *APWeb-WAIM2025*, unpublished. \\
+**Pengtao Wang**, Jianfeng Qu, Yu Liu*, Yanmei Kang
 - A Review of Low-Altitude Communication Technologies in the Context of Integrating the Low-Altitude Economy and Rail Transit. *ECNCT 2025*, unpublished. \\
 Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang*.
 - ``CCF-B`` MARS: A Multi-Agent Simulation Framework for Rumor Propagation on Social Media. *ACM CIKM 2025 Workshop LASS*, unpublished. \\
 Zihao Wang, Xiaoyu Chen, Lingyun Fan, Peiyu Chen, **Pengtao Wang**, Binyang Li*.
+- ``SCI JCRQ3`` Open-Source Intelligence in the Age of Artificial Intelligence: Practices and Challenges for Non-Governmental Entities. *DYNA*, Accepted.\\
+**Pengtao Wang**, Binyang Li*, Chang Liu, Peiran Gong
+- ``SCI JCRQ3`` Better leveraging the role of civilian intelligence elements in national security intelligence: Guiding the establishment of unified geopolitical open-source intelligence standards and coordination mechanisms. *DYNA*, Accepted.\\
+Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wang
 
 #### 软件著作权
 - Pengtao Wang. **计算机网络运行安全监控管理系统 V1.0 (Computer Network Security Monitoring and Management System V1.0)**. Registration No. 2024SR0923076. Grant Date: 2024/07/03
