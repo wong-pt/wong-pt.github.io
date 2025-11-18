@@ -62,7 +62,7 @@ redirect_from:
 **Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng*.
 - ``CCF-C`` RS-Stega: A Token-Level Quality-Control Framework for Generative Text Steganography. *APWeb-WAIM2025*, unpublished. \\
 **Pengtao Wang**, Jianfeng Qu, Yu Liu*, Yanmei Kang
-- ``EI indexed`` A Review of Low-Altitude Communication Technologies in the Context of Integrating the Low-Altitude Economy and Rail Transit. *ECNCT 2025*, unpublished. \\
+- ``EI indexed`` [A Review of Low-Altitude Communication Technologies in the Context of Integrating the Low-Altitude Economy and Rail Transit](https://ieeexplore.ieee.org/document/11172508). *2025 7th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT)*, 208-217. \\
 Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang*.
 - ``CCF-B`` MARS: A Multi-Agent Simulation Framework for Rumor Propagation on Social Media. *ACM CIKM 2025 Workshop LASS*, unpublished. \\
 Zihao Wang, Xiaoyu Chen, Lingyun Fan, Peiyu Chen, **Pengtao Wang**, Binyang Li*.
