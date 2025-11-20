@@ -19,7 +19,6 @@ redirect_from:
 培训经验丰富，教学范围涵盖网络安全开发、电子对抗方向，C++程序设计，PHP 程序设计，青少年信息学教学，沟通、汇报能力强。发表人工智能相关成果多篇（项）。指导学生获得省市级竞赛奖项、在国际会议发表学术论文3篇。
 
 ## **Skills**
-
 - **Programming Languages:** C/C++, PHP, Python, Java, SQL  
 - **Web Technologies:** PHP + MySQL, ASP + MSSQL  
 - **Database Systems:** MSSQL, MySQL  
@@ -27,7 +26,6 @@ redirect_from:
 - **Research Skills:** Paper writing, Conduct experiments, Information Gathering 
 
 # 🔥 News
-- *2025.10.04*: &nbsp;🎉🎉🎉 新作被SCI、JCRQ3、中科院Q4期刊DYNA接收。 
 - *2025.09.03*: &nbsp;🎉 经过一年多的拖延症，本页面终于成功落地。
 
 # 📝 Publications 
@@ -100,7 +98,7 @@ Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wan
 # 💻 Internships & 兼职
 - *2023.12 - 2024.11*, 新东方教育科技集团有限公司，儿童素养智学，信息学奥林匹克竞赛教研
 - *2023.12 - 2024.02*, 清华大学，THUNLP，校内iLearn小程序
-- *2023.06-2023.08, 2023.09, 2023.10-2023.12, 2023.12-2024.01, 2024.03-2024.06, 2024.09-now*, **（均为兼职，到处奔波打工糊口罢了）** 桂林玛酷机器人，北京小鹏智学，北京强平机器人，海淀科技服务协会（农大校区），北京大兴乐博乐博编程，编程猫北京北大地校区 
+- *2023.06-2023.08, 2023.09, 2023.10-2023.12, 2023.12-2024.01, 2024.03-2024.06, 2024.09-now*, **（均为兼职，到处奔波打工糊口罢了）** 桂林玛酷机器人，北京小鹏智学，北京强平机器人，海淀科技服务协会易好教育（农大校区），北京大兴乐博乐博编程，编程猫北京北大地校区，北京市通州区潞河中学
 
 # ✉️ 感谢信
 - *2023*, 中共菏泽市网络安全和信息化委员会办公室
@@ -122,4 +120,4 @@ Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wan
 - *2015.09 - 2017.06*, 桂林市蓝田学校
   
 # 💬 ~~Invited~~ Talks
-两次，没去成。
+三次，没去成。
