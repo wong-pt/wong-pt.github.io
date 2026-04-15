@@ -26,7 +26,7 @@ redirect_from:
 - **Research Skills:** Paper writing, Conduct experiments, Information Gathering 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉 论文获得强网杯优秀论文。
+- *2025.11*: &nbsp;🎉 论文《美欧网络安全全民宣传教育的分析与经验借鉴》获得强网杯优秀论文。
 - *2025.09.03*: &nbsp;🎉 经过一年多的拖延症，本页面终于成功落地。
 
 # 📝 Publications 
@@ -85,7 +85,7 @@ Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wan
 
   太久远了，所以只列出高中以来的大奖
 
-# 💼 外部任职经历
+# 💼 社会服务
 - *2025.02*, 2025中非人工智能产业发展论坛，审稿人.
 - *2024.12 - 2026.12*, 攀枝花市公安局仁和区分局网络安全顾问团队
 - *2024.11 - 2026.11*, 衡阳市公安局珠晖分局网络安全监察大队网络安全顾问团队
