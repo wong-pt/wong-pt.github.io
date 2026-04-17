@@ -94,7 +94,7 @@ Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wan
 # 📜 Certificates
 - *2024*, 军事教练员
 - *2024*, NISP（国家信息安全水平考试）一级
-- *2024*, 机动车驾驶证C1(2025年12月结束实习期)
+- *2024*, 机动车驾驶证C1
 - *2023.11, 2024.06, 2025.06*, 分别通过英语公共四、六级，专业四级优秀
 
 # 💻 Internships & 兼职
@@ -123,8 +123,8 @@ Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wan
 
 # 📖 Educations
 - *2023.09 - now*, [国际关系学院](https://baike.baidu.com/item/国际关系学院/1153802)（重点**本科**，提前批）网络空间安全学院
-- *2017.09 - 2023.06*, [桂林市桂电中学](https://baike.baidu.com/item/%E6%A1%82%E6%9E%97%E5%B8%82%E6%A1%82%E7%94%B5%E4%B8%AD%E5%AD%A6/13482436)（桂林电子科技大学附属中学）
-- *2015.09 - 2017.06*, 桂林市蓝田学校
-  
+<!-- - *2017.09 - 2023.06*, [桂林市桂电中学](https://baike.baidu.com/item/%E6%A1%82%E6%9E%97%E5%B8%82%E6%A1%82%E7%94%B5%E4%B8%AD%E5%AD%A6/13482436)（桂林电子科技大学附属中学）
+- *2015.09 - 2017.06*, 桂林市蓝田学校 
+
 # 💬 ~~Invited~~ Talks
-三次，没去成（其中一个是学历原因...）。
+三次，没去成（其中一个是学历原因...）。 -->
