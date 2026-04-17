@@ -86,7 +86,8 @@ Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wan
   太久远了，所以只列出高中以来的大奖
 
 # 💼 社会服务
-- *2025.02*, 2025中非人工智能产业发展论坛，审稿人.
+- *2026.04*, [ICPMS2026(the 9th International Conference on Physics, Mathematics and Statistics, 第九届物理、数学与统计国际学术会议)](https://www.pmsconf.org/History.aspx), 审稿人
+- *2025.02*, 2025中非人工智能产业发展论坛, 审稿人
 - *2024.12 - 2026.12*, 攀枝花市公安局仁和区分局网络安全顾问团队
 - *2024.11 - 2026.11*, 衡阳市公安局珠晖分局网络安全监察大队网络安全顾问团队
 
