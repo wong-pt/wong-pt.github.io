@@ -43,17 +43,6 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCI JCRQ3</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Open-Source Intelligence in the Age of Artificial Intelligence: Practices and Challenges for Non-Governmental Entities]()
-
-**Pengtao Wang**, Binyang Li*, Chang Liu, Peiran Gong
-
-- Will be published soon! 
-</div>
-</div>
-
 #### 按投稿时间排序
 - ``EI indexed`` [An Improved BERT-BiLSTM-CRF Model Integrating CNN and Transformer for Chinese Named Entity Recognition](https://ieeexplore.ieee.org/document/11084000). *2025 IEEE 5th International Conference on Electronic Technology, Communication and Information (ICETCI)*, 512-520. \\
 **Pengtao Wang**, Kexin Tang, Yingxu Li, Dongsong Li*.
@@ -109,6 +98,7 @@ Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wan
 - *2024*, 中共菏泽市网络安全和信息化委员会办公室
 - *2025*, 锦州市公安局凌河分局网络与信息安全大队
 - *2026*, 衡阳市公安局珠晖分局网络安全监察大队
+- *2026*, 衡阳市互联网信息办公室
 - *2024*, 第七届中国国际进口博览会（团体感谢函）, 上海市公安局网络安全保卫总队
 
 # 📟 开发经历
