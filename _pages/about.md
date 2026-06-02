@@ -48,7 +48,7 @@ redirect_from:
 **Pengtao Wang**, Kexin Tang, Yingxu Li, Dongsong Li*.
 - ``EI indexed`` [An Attention-Enhanced LSTM Model for Chinese Educational Named Entity Recognition](https://ieeexplore.ieee.org/document/11025404/). *2024 IEEE 5th International Conference on Information Science and Education (ICISE-IE)*, 272-277. \\
 **Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng*.
-- ``CCF-C`` RS-Stega: A Token-Level Quality-Control Framework for Generative Text Steganography. *APWeb-WAIM2025*, unpublished. \\
+- ``CCF-C, EI&CPCI indexed`` [RS-Stega: A Token-Level Quality-Control Framework for Generative Text Steganography](https://link.springer.com/chapter/10.1007/978-981-95-5716-5_6). *APWeb-WAIM2025*, unpublished. \\
 **Pengtao Wang**, Jianfeng Qu, Yu Liu*, Yanmei Kang
 - ``EI indexed`` [A Review of Low-Altitude Communication Technologies in the Context of Integrating the Low-Altitude Economy and Rail Transit](https://ieeexplore.ieee.org/document/11172508). *2025 7th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT)*, 208-217. \\
 Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang*.
