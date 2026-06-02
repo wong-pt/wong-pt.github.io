@@ -48,7 +48,7 @@ redirect_from:
 **Pengtao Wang**, Kexin Tang, Yingxu Li, Dongsong Li*.
 - ``EI indexed`` [An Attention-Enhanced LSTM Model for Chinese Educational Named Entity Recognition](https://ieeexplore.ieee.org/document/11025404/). *2024 IEEE 5th International Conference on Information Science and Education (ICISE-IE)*, 272-277. \\
 **Pengtao Wang**, Yiyang Chen, Chang Liu, Ziying Yang, Lin Deng*.
-- ``CCF-C, EI&CPCI indexed`` [RS-Stega: A Token-Level Quality-Control Framework for Generative Text Steganography](https://link.springer.com/chapter/10.1007/978-981-95-5716-5_6). *APWeb-WAIM2025*, unpublished. \\
+- ``CCF-C, EI&CPCI indexed`` [RS-Stega: A Token-Level Quality-Control Framework for Generative Text Steganography](https://link.springer.com/chapter/10.1007/978-981-95-5716-5_6). *APWeb-WAIM2025*. \\
 **Pengtao Wang**, Jianfeng Qu, Yu Liu*, Yanmei Kang
 - ``EI indexed`` [A Review of Low-Altitude Communication Technologies in the Context of Integrating the Low-Altitude Economy and Rail Transit](https://ieeexplore.ieee.org/document/11172508). *2025 7th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT)*, 208-217. \\
 Xuan Xie, Yu Liu, Xun Liu, **Pengtao Wang**, Yanmei Kang*.
@@ -110,7 +110,7 @@ Chang Liu, **Pengtao Wang**, Peiran Gong, Wengang Feng*, Yunfei Gao, Jiatong Wan
 - *2025年*独立开发一套web的**3DXX交互展示平台**和一套**XX仿真系统**
 
 # 📖 Educations
-- *2023.09 - now*, [国际关系学院](https://baike.baidu.com/item/国际关系学院/1153802)（重点**本科**，提前批）网络空间安全学院
+- *2023.09 - now*, [国际关系学院](https://baike.baidu.com/item/国际关系学院/1153802), 网络空间安全, 本科.
 
 # 💬 ~~Invited~~ Talks
 三次，没去成（其中一个是学历原因...）。
